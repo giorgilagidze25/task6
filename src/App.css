@@ -51,3 +51,14 @@ top: 50px;
     align-items: center;
     margin: 30px;
 }
+
+
+
+
+
+
+@media screen and (width <=  650px) {
+ .box{
+    width: 405px;
+ }
+}
